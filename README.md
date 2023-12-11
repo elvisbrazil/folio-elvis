@@ -1,34 +1,33 @@
-# Portfolio Website
+# Site do portfólio
 
-This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+Este meu portfólio construído com Next.js e Tailwind CSS. Ele mostra suas habilidades, projetos e conquistas em um design elegante e responsivo.
 
-## Installation
+## Instalação
 
-1. Clone the repository: `git clone https://github.com/judygab/portfolio-website.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+1. Clone o repositório: `git clone https://github.com/judygab/portfolio-website.git`
+2. Navegue até o diretório do projeto: `cd portfolio-website`
+3. Instale as dependências: `npm install`
 
-## Usage
+## Uso
 
-1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the website.
+1. Inicie o servidor de desenvolvimento: `npm run dev`
+2. Abra seu navegador e visite `http://localhost:3000` para visualizar o site.
 
-## Run start
+## Executar início
 
-1. Start : `npm run start`
-2. Open your browser and visit `http://localhost:4000` to view the website.
+1. Iniciar após o  `npm run build` use `npm run start`
+2. Abra seu navegador e visite `http://localhost:4000` para visualizar o site.
 
 
 
-## Dependencies
+## Dependências
 
-The following dependencies are required for this project:
+As seguintes dependências são necessárias para este projeto:
 
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Resend: Resend is the email API for developers.
-- Spline: for 3d objects
-
+- Next.js: uma estrutura React para renderização do lado do servidor e geração de sites estáticos.
+- Tailwind CSS: uma estrutura CSS altamente personalizável.
+- React: Uma biblioteca JavaScript para construção de interfaces de usuário.
+- Ícones React: uma coleção de ícones populares para projetos React.
+- TypeScript: um superconjunto digitado de JavaScript que é compilado em JavaScript simples.
+- Reenviar: Reenviar é a API de e-mail para desenvolvedores.
+- Spline: para objetos 3D
